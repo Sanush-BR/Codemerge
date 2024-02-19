@@ -1,0 +1,9 @@
+1. https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-large-zip-file.zip
+
+2. https://srikarthiks.files.wordpress.com/2016/07/java-the-complete-reference-8th-edition.pdf
+
+3. https://thetestdata.com/samplefiles/zip/Thetestdata_ZIP_500KB.zip 
+
+(500 MB)
+
+4. https://testfile.org/dummy-test-file/1gb-large-test-file-direct-download/
